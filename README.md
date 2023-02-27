@@ -1,3 +1,3 @@
 # git-note
 
-Bob say: "heys"
+carol say: "It's Carol"
