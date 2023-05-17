@@ -1,5 +1,3 @@
 # git-note
 
-carol say: "It's Carol"
-
-hotfix conflict
+The dnd.sh script sets up an environment for practicing Git

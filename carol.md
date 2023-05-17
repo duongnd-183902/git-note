@@ -1,3 +1,0 @@
-# Carol
-
-Carol say hi.
